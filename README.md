@@ -1,3 +1,2 @@
 # jalbert2.github.io
-Personal Website
-Pancakes
+Personal Website for Jonah Albert
